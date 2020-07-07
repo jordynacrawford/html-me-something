@@ -1,0 +1,55 @@
+html {
+    font-family: Helvetica, Verdana, sans-serif;
+    margin: 25px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    background-color: gray;
+    padding: 8px;
+    text-transform: uppercase;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 16px;
+}
+
+li a:hover {
+    background-color: rgb(223, 183, 75);
+    padding: 8px 16px;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: white;
+    background-color: rgb(223, 183, 75);
+    padding: 33px;
+}
+    
+h2 {
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+figure {
+    margin-bottom: 3em;
+}
+
+figcaption {
+    color: rgb(109, 108, 108);
+}
+
+
+footer {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    clear: both;
+}
